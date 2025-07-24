@@ -1,0 +1,6 @@
+@MySql.EFCore.JsonColumns.Example_HostAddress = http://localhost:5197
+
+GET {{MySql.EFCore.JsonColumns.Example_HostAddress}}/authors/
+Accept: application/json
+
+###
