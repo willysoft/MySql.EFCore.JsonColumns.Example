@@ -14,7 +14,7 @@
 
 3. Update to the latest migration:
    ```shell
-   dotnet ef database update --project CMS.Data --startup-project CMS.Service --context CmsDbContext
+   dotnet ef database update --context JsonBlogsContext
    ```
 
 #### Reference Documents
